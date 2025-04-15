@@ -57,7 +57,7 @@ A modern platform connecting homeowners with repair service providers. Built wit
 1. Clone the project
    ```bash
    git clone [repository-url]
-   cd HomeRepairServiceMobile
+   cd HomeRepairServiceMobileApp
    ```
 
 2. Install dependencies and start
